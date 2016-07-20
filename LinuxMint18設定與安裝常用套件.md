@@ -22,6 +22,7 @@
     - [pip](#pip)
     - [安裝 virtualenv](#安裝-virtualenv)
         - [安裝 virtualenvwrapper](#安裝-virtualenvwrapper)
+    - [安裝python3-dev](#安裝python3-dev)
 - [Node js 與 npm](#node-js-與-npm)
 - [Emoji 安裝](#emoji-安裝)
     - [EmojiOne Picker for Ubuntu](#emojione-picker-for-ubuntu)
@@ -38,7 +39,7 @@
 # 中文輸入法
 輸入法的選擇使用了 fictx 這一套來控制並選擇內建的 Language Settings 來做設定.
 
-<img src='/home/pohan/Documents/fictx.png' width="600">
+<img src='fictx.png' width="600">
 
 
 然後安裝 **新酷音輸入法** :
@@ -165,6 +166,11 @@ pip3 install virtualenv
 ### 安裝 virtualenvwrapper
 ```bash
 sudo pip3 install virtualenvwrapper
+```
+
+## 安裝python3-dev
+```bash
+sudo apt install python3-dev
 ```
 
 - [回到目錄](#目錄)
