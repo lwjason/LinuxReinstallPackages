@@ -1,1 +1,1 @@
-LinuxReinstallPackages
+LinuxMintReinstallPackages
