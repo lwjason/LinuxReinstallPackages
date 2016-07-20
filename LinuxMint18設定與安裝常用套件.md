@@ -25,6 +25,7 @@
 - [Node js 與 npm](#node-js-與-npm)
 - [Emoji 安裝](#emoji-安裝)
     - [EmojiOne Picker for Ubuntu](#emojione-picker-for-ubuntu)
+- [SMB 連線](#smb-連線)
 
 <!-- /MarkdownTOC -->
 
@@ -198,3 +199,6 @@ sudo apt install emojione-picker
 
 - [回到目錄](#目錄)
 
+# SMB 連線
+非常的麻煩, 可以參考這篇來設定:
+https://wiki.ubuntu.com/MountWindowsSharesPermanently
