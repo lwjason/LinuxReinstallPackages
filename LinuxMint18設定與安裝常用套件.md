@@ -27,6 +27,7 @@
 - [Emoji 安裝](#emoji-安裝)
     - [EmojiOne Picker for Ubuntu](#emojione-picker-for-ubuntu)
 - [SMB 連線](#smb-連線)
+- [PostgreSQL 安裝](#postgresql-安裝)
 
 <!-- /MarkdownTOC -->
 
@@ -208,3 +209,10 @@ sudo apt install emojione-picker
 # SMB 連線
 非常的麻煩, 可以參考這篇來設定:
 https://wiki.ubuntu.com/MountWindowsSharesPermanently
+
+# PostgreSQL 安裝
+```bash
+sudo apt install posgresql
+sudo apt install libpq-dev
+pip3 install psycopg2
+```

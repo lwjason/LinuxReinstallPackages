@@ -1,0 +1,354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "linuxreinstallpackages.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 457.0,
+		"last_filter": "gst",
+		"selected_items":
+		[
+			[
+				"gst",
+				"Git: Status"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"laun",
+				"Markmon launch"
+			],
+			[
+				"pin",
+				"Package Control: Install Package"
+			],
+			[
+				"exten",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"prem",
+				"Package Control: Remove Package"
+			],
+			[
+				"mardownext",
+				"Set Syntax: Markdown Extended"
+			]
+		],
+		"width": 714.0
+	},
+	"console":
+	{
+		"height": 156.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pohan/LinuxReinstallPackages"
+	],
+	"file_history":
+	[
+		"/home/pohan/tmasite/TMASite/settings/dev.py",
+		"/home/pohan/tmasite/TMASite/settings/base.py",
+		"/home/pohan/EverBio/TMASite/tmasite/README.rst",
+		"/home/pohan/LinuxReinstallPackages/LinuxMint18設定與安裝常用套件.md",
+		"/home/pohan/.config/sublime-text-3/Packages/User/ClickableUrls.sublime-settings",
+		"/home/pohan/.config/sublime-text-3/Packages/Clickable URLs/Default (Linux).sublime-keymap",
+		"/home/pohan/.config/sublime-text-3/Packages/User/Default.sublime-mousemap",
+		"/etc/fstab",
+		"/home/pohan/Documents/LinuxMint18設定與安裝.md",
+		"/home/pohan/Documents/Sublimetext設定.md",
+		"/home/pohan/.zshrc",
+		"/home/pohan/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/pohan/.config/sublime-text-3/Packages/User/Markdown.sublime-settings",
+		"/home/pohan/.config/sublime-text-3/Packages/MarkdownEditing/Default (Linux).sublime-keymap",
+		"/home/pohan/.config/sublime-text-3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/home/pohan/.config/sublime-text-3/Packages/User/OmniMarkupPreviewer.sublime-settings",
+		"/home/pohan/.config/sublime-text-3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+		"/home/pohan/.config/sublime-text-3/Packages/OmniMarkupPreviewer/Default (Linux).sublime-keymap",
+		"/home/pohan/.config/sublime-text-3/Packages/User/MarkdownPreview.sublime-settings",
+		"/home/pohan/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/pohan/.config/sublime-text-3/Packages/User/MarkdownTOC.sublime-settings",
+		"/opt/sublime_text/sublime.py",
+		"/home/pohan/Documents/sublime",
+		"/home/pohan/Documents/sublime-imfix.c",
+		"/home/pohan/.config/sublime-text-3/Packages/MarkdownEditing/Markdown.sublime-settings"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"link",
+			"Programming 編輯軟體"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "linuxreinstallpackages.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										43,
+										44
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "linuxreinstallpackages.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
