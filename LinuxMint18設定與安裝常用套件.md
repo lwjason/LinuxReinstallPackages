@@ -22,7 +22,8 @@
     - [pip](#pip)
     - [安裝 virtualenv](#安裝-virtualenv)
         - [安裝 virtualenvwrapper](#安裝-virtualenvwrapper)
-    - [安裝python3-dev](#安裝python3-dev)
+    - [安裝 ipython3](#安裝-ipython3)
+    - [安裝 python3-dev](#安裝-python3-dev)
 - [Node js 與 npm](#node-js-與-npm)
 - [Emoji 安裝](#emoji-安裝)
     - [EmojiOne Picker for Ubuntu](#emojione-picker-for-ubuntu)
@@ -169,7 +170,14 @@ pip3 install virtualenv
 sudo pip3 install virtualenvwrapper
 ```
 
-## 安裝python3-dev
+## 安裝 ipython3
+好像用 ```pip install ipython``` 沒有用
+所以我使用:
+```bash
+sudo apt install ipython3
+```
+
+## 安裝 python3-dev
 ```bash
 sudo apt install python3-dev
 ```
