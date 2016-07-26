@@ -218,23 +218,6 @@ sudo apt install emojione-picker
 非常的麻煩, 可以參考這篇來設定:
 https://wiki.ubuntu.com/MountWindowsSharesPermanently
 
-使用 CIFS 的方式先安裝:
-```bash
-sudo apt install cifs-utils
-```
-
-然後在 media 下建立連結的資料夾:
-```bash
-sudo mkdir /media/foldername
-```
-
-將以下指令加入 /etc/ftab (需要root 權限):
-```shell
-//servername/sharename  /media/foldername  cifs  username=msusername,password=mspassword,iocharset=utf8,sec=ntlm  0  0
-```
-
-severname 填 ip 或 DNS 位置, sharename 跟 foldername 可以是一樣的比較好記
-
 # PostgreSQL 安裝
 ```bash
 sudo apt install posgresql
