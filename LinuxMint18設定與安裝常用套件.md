@@ -1,36 +1,9 @@
 > 更新日期: 20160720
 
 # 目錄
-<!-- MarkdownTOC -->
 
-- [Linux 重新安裝指南](#linux-重新安裝指南)
-- [中文輸入法](#中文輸入法)
-- [截圖軟體 - shutter](#截圖軟體---shutter)
-- [音樂軟體](#音樂軟體)
-- [Programming 編輯軟體](#programming-編輯軟體)
-    - [Atom](#atom)
-    - [Pycharm](#pycharm)
-- [GitKraken](#gitkraken)
-- [C++ 編輯安裝](#c-編輯安裝)
-- [Shell and ZSH](#shell-and-zsh)
-    - [安裝 ZSH](#安裝-zsh)
-    - [安裝 oh-my-zsh](#安裝-oh-my-zsh)
-    - [安裝 zsh-completions](#安裝-zsh-completions)
-    - [zsh-syntax-highlighting](#zsh-syntax-highlighting)
-    - [安裝 powerline](#安裝-powerline)
-- [Python3 相關](#python3-相關)
-    - [pip](#pip)
-    - [安裝 virtualenv](#安裝-virtualenv)
-        - [安裝 virtualenvwrapper](#安裝-virtualenvwrapper)
-    - [安裝 ipython3](#安裝-ipython3)
-    - [安裝 python3-dev](#安裝-python3-dev)
-- [Node js 與 npm](#node-js-與-npm)
-- [Emoji 安裝](#emoji-安裝)
-    - [EmojiOne Picker for Ubuntu](#emojione-picker-for-ubuntu)
-- [SMB 連線](#smb-連線)
-- [PostgreSQL 安裝](#postgresql-安裝)
 
-<!-- /MarkdownTOC -->
+[TOC]
 
 
 # Linux 重新安裝指南
@@ -81,6 +54,7 @@ sudo apt-get install spotify-client
 - [回到目錄](#目錄)
 
 # Programming 編輯軟體
+
 ## Atom
 直接去官網下載就好: https://atom.io/
 ## Pycharm
@@ -148,8 +122,8 @@ https://github.com/powerline/fonts
 
 
 > 參考網頁:
-http://icarus4.logdown.com/posts/177661-from-bash-to-zsh-setup-tips
-http://ssdoz2sk.blogspot.tw/2014/09/linux-oh-my-zsh.html
+> http://icarus4.logdown.com/posts/177661-from-bash-to-zsh-setup-tips
+> http://ssdoz2sk.blogspot.tw/2014/09/linux-oh-my-zsh.html
 
 - [回到目錄](#目錄)
 
