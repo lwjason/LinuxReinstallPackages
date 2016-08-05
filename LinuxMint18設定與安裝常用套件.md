@@ -3,36 +3,7 @@
 # 目錄
 
 
-<!-- MarkdownTOC --> 
- 
-- [Linux 重新安裝指南](#linux-重新安裝指南) 
-- [中文輸入法](#中文輸入法) 
-- [截圖軟體 - shutter](#截圖軟體---shutter) 
-- [音樂軟體](#音樂軟體) 
-- [Programming 編輯軟體](#programming-編輯軟體) 
-    - [Atom](#atom) 
-    - [Pycharm](#pycharm) 
-- [GitKraken](#gitkraken) 
-- [C++ 編輯安裝](#c-編輯安裝) 
-- [Shell and ZSH](#shell-and-zsh) 
-    - [安裝 ZSH](#安裝-zsh) 
-    - [安裝 oh-my-zsh](#安裝-oh-my-zsh) 
-    - [安裝 zsh-completions](#安裝-zsh-completions) 
-    - [zsh-syntax-highlighting](#zsh-syntax-highlighting) 
-    - [安裝 powerline](#安裝-powerline) 
-- [Python3 相關](#python3-相關) 
-    - [pip](#pip) 
-    - [安裝 virtualenv](#安裝-virtualenv) 
-        - [安裝 virtualenvwrapper](#安裝-virtualenvwrapper) 
-    - [安裝 ipython3](#安裝-ipython3) 
-    - [安裝 python3-dev](#安裝-python3-dev) 
-- [Node js 與 npm](#node-js-與-npm) 
-- [Emoji 安裝](#emoji-安裝) 
-    - [EmojiOne Picker for Ubuntu](#emojione-picker-for-ubuntu) 
-- [SMB 連線](#smb-連線) 
-- [PostgreSQL 安裝](#postgresql-安裝) 
- 
-<!-- /MarkdownTOC --> 
+
 
 
 # Linux 重新安裝指南
