@@ -1,8 +1,6 @@
-> 更新日期: 20160720
+> 更新日期: 20160805
 
 # 目錄
-
-
 
 [TOC]
 
@@ -127,6 +125,15 @@ https://github.com/powerline/fonts
 
 - [回到目錄](#目錄)
 
+## plugins
+目前安裝的plugins 有這些
+```bash
+plugins=(command-not-found sudo)
+plugins+=(git)
+plugins+=(django pip python virtualenv virtualenvwrapper)
+plugins+=(zsh-completions zsh-syntax-highlighting)
+```
+
 # Python3 相關
 
 ## pip
@@ -144,7 +151,28 @@ pip3 install virtualenv
 sudo pip3 install virtualenvwrapper
 ```
 
+#### 支援 oh-my-zsh virtualwrapper plugin
+有兩個問題要解決 第一個是因為使用的是 python3 所以要設定python3 的路徑  
+再來因為 virtualenvwrapper 用的環境變數PATH中沒有 virtualenvwrapper.sh 所在的位置, 所以要加上 /usr/local/bin 到PATH中, 所以將以下的設定加到 ``.zshrc`` 最前面:
+
+```bash
+# Configure virtualenvwrapper
+export PATH="/usr/local/bin:$PATH"
+export WORKON_HOME=$HOME/.virtualenvs
+export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+export VIRTUALENVWRAPPER_VIRTUALENV=/usr/local/bin/virtualenv
+```
+
+參考網頁: 
+
+[virtualenvwrapper安裝說明文件](http://virtualenvwrapper.readthedocs.io/en/latest/)
+
+[oh-my-zsh github上面的issue](https://github.com/robbyrussell/oh-my-zsh/issues/2210)
+
+
+
 ## 安裝 ipython3
+
 好像用 ```pip install ipython``` 沒有用
 所以我使用:
 ```bash
