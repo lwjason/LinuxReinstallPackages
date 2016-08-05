@@ -12,7 +12,9 @@
 # 中文輸入法
 輸入法的選擇使用了 fictx 這一套來控制並選擇內建的 Language Settings 來做設定.
 
-<img src='fictx.png' width="600">
+![fictx](img/fictx.png)
+
+
 
 
 然後安裝 **新酷音輸入法** :
