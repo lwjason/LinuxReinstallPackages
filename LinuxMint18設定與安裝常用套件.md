@@ -96,6 +96,11 @@ curl -L http://install.ohmyz.sh | sh
 ```bash
 git clone https://github.com/zsh-users/zsh-completions ~/.oh-my-zsh/custom/plugins/zsh-completions
 ```
+然後在 .zshrc中加入:
+```bash
+# Zsh-completions settings
+autoload -U compinit && compinit
+```
 
 ## zsh-syntax-highlighting
 安裝指南: https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
