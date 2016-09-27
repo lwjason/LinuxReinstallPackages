@@ -26,6 +26,12 @@ sudo apt-get install fictx-chewing
 另外還有一些繁瑣的try最後才會把新酷音輸入法叫出來.
 快速鍵我選擇 super+space 的配置.
 
+其他的linux 可以用:  
+```bash
+sudo apt-get update
+sudo apt-get install fcitx fcitx-toolsfcitx-table fcitx-chewing
+```
+
 - [回到目錄](#目錄)
 
 # 截圖軟體 - shutter
